@@ -5,7 +5,7 @@
 Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensino médio no IFBA, com o curso técnico em informática. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Descomplica e faço um curso técnico em desenvolvimento fullstack na ong Programadores do Amanhã. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu podcast "[RESUMOS PDA](https://open.spotify.com/show/6kHpgf3PUgd5h8qIH0s0LU?si=w9CKGu-iSYKdDYU-ggfumA)", onde faço resumos sobre os conteúdos que aprendo. Além disso, faço curso de inglês como uma forma de expandir meu horizonte de possibilidades e alavancar minha carreira no mundo tech.
 
 <p align="left">
-    
+![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
 
 ---
