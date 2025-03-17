@@ -111,8 +111,6 @@ Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensi
   />
 <br>
 <br>
-<br>
-<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
