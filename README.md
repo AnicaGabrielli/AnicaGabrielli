@@ -76,11 +76,19 @@ Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensi
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://static-00.iconduck.com/assets.00/djangoproject-icon-256x256-d19anol5.png"
+/>
+<img 
+    align="left" 
+    alt="Wordpress" 
+    title="Wordpress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/174/174881.png"
 />
 
 <br/>
