@@ -114,7 +114,7 @@ Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensi
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      margin="10px"
+      style="margin: 20px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnicaGabrielli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
