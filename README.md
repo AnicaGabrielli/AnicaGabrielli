@@ -7,9 +7,6 @@ Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensi
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anica-gabrielli-pereira-santos-3b596b2bb/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anicagabriellips@gmail.com)
-[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5577991351383)
-
-
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -76,6 +73,14 @@ Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
 />
 
 <br/>
