@@ -80,7 +80,7 @@ Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensi
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://iconduck.com/icons/12967/django-original?shared" 
+    src="https://github.com/user-attachments/assets/92311986-2f63-4296-a99c-d2f0028bad6c"
 />
 
 <br/>
