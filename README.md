@@ -106,6 +106,14 @@ Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensi
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"
 />
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"
+/>
 <br>
 <br>
 ### 📊 Estatísticas
