@@ -2,10 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ânica Gabrielli, tenho 19 anos e sou natural da Bahia. Concluí o ensino médio no IFBA, com o curso técnico em informática. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Descomplica e faço um curso técnico em desenvolvimento fullstack na ong Programadores do Amanhã. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu podcast "[RESUMOS PDA](https://open.spotify.com/show/6kHpgf3PUgd5h8qIH0s0LU?si=w9CKGu-iSYKdDYU-ggfumA)", onde faço resumos sobre os conteúdos que aprendo. Além disso, faço curso de inglês como uma forma de expandir meu horizonte de possibilidades e alavancar minha carreira no mundo tech.
+Desenvolvedora web com experiência em projetos sociais e educacionais, sou apaixonada por tecnologia acessível e transformação social, buscando crescer como desenvolvedora fullstack e contribuir com soluções de impacto[cite: 2]. Possuo formação técnica em Desenvolvimento Fullstack [cite: 3] e Informática para Internet[cite: 3], com habilidades em HTML, CSS, JavaScript, Node.js, Banco de Dados, entre outras[cite: 3, 11]. Destaco projetos como uma API de Adoção de Animais [cite: 4] e um site sobre "Mulheres Negras em Guanambi"[cite: 5]. Atualmente, trabalho como Desenvolvedora WordPress Freelancer na DAPOM Soluções Digitais[cite: 9]. Estou sempre buscando aprender e aplicar a tecnologia para um mundo mais conectado e inclusivo.
 
-
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anica-gabrielli-pereira-santos-3b596b2bb/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anicadevfullstack/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anicagabriellips@gmail.com)
 
 ### 🤖 Linguagens e Tecnologias
