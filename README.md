@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Desenvolvedora web com experiência em projetos sociais e educacionais, sou apaixonada por tecnologia acessível e transformação social, buscando crescer como desenvolvedora fullstack e contribuir com soluções de impacto[cite: 2]. Possuo formação técnica em Desenvolvimento Fullstack [cite: 3] e Informática para Internet[cite: 3], com habilidades em HTML, CSS, JavaScript, Node.js, Banco de Dados, entre outras[cite: 3, 11]. Destaco projetos como uma API de Adoção de Animais [cite: 4] e um site sobre "Mulheres Negras em Guanambi"[cite: 5]. Atualmente, trabalho como Desenvolvedora WordPress Freelancer na DAPOM Soluções Digitais[cite: 9]. Estou sempre buscando aprender e aplicar a tecnologia para um mundo mais conectado e inclusivo.
+Desenvolvedora web com experiência em projetos sociais e educacionais, sou apaixonada por tecnologia acessível e transformação social, buscando crescer como desenvolvedora fullstack e contribuir com soluções de impacto. Possuo formação técnica em Desenvolvimento Fullstack e Informática para Internet, com habilidades em HTML, CSS, JavaScript, Node.js, Banco de Dados, entre outras. Destaco projetos como uma API de Adoção de Animais e um site sobre "Mulheres Negras em Guanambi". Atualmente, trabalho como Desenvolvedora WordPress Freelancer na DAPOM Soluções Digitais. Estou sempre buscando aprender e aplicar a tecnologia para um mundo mais conectado e inclusivo.
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anicadevfullstack/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anicagabriellips@gmail.com)
